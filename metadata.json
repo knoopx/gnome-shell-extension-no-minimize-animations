@@ -1,0 +1,6 @@
+{
+  "uuid": "no-minimize-animations@knoopx.net",
+  "name": "No Minimize Animations",
+  "description": "Disables minimize/unminimize animations",
+  "shell-version": ["42"]
+}
